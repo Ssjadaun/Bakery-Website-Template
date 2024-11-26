@@ -1,1 +1,1 @@
-Site is live at https://ssjadaun.github.io/Bakery-Website-Template/
+Site is live at https://bakery-website-template.vercel.app/
